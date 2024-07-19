@@ -1,0 +1,18 @@
+{
+  "name": "framework-energiamsp432e",
+  "version": "1.0.0",
+  "description": "Energia Wiring-based Framework for Texas Instruments MSP432 microcontrollers",
+  "keywords": [
+    "framework",
+    "wiring",
+    "texas instruments",
+    "msp432",
+    "msp432e",
+    "energia"
+  ],
+  "homepage": "https://github.com/energia/msp432e-core",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1ZQL1/framework-energiamsp432e"
+  }
+}
